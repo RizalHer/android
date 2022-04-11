@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "994572805593",
+    "project_id": "daftarpren",
+    "storage_bucket": "daftarpren.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994572805593:android:30228b850e7336021965c8",
+        "android_client_info": {
+          "package_name": "com.rizal.daftarpren"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994572805593-ra23gscnsldgm7m1nhun2fh306fbjmra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk9QLqRhcbcgokdDd-YAPBElbFgqm9RwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994572805593-ra23gscnsldgm7m1nhun2fh306fbjmra.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
